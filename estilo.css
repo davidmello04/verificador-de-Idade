@@ -1,6 +1,6 @@
 body {
-    background: rgb(0, 174, 255);
-    font: normal 15pt Arial;
+    background: rgb(250, 199, 30);
+    font: normal 15pt CARROL DEMO;
 }
 
 header {
@@ -18,8 +18,26 @@ section {
 }
 
 div {
-    text-align: left;
+    text-align: center;
     padding: 8px;
+}
+
+input#txtano {
+    border-radius: 7px;
+    padding: 2px;
+    border: 1px solid grey;
+}
+
+#mas, #fem {
+    cursor: pointer;
+}
+
+input#botao {
+    border: 0.1px solid rgb(189, 189, 189);
+    border-radius: 5px;
+    padding: 7px;
+    box-shadow: 2px 2px grey;
+    cursor: pointer;
 }
 
 footer {
