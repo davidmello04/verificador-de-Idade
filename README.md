@@ -1,4 +1,4 @@
-a# verificador-de-idade
+# verificador-de-idade
 
 Bem-vindo ao Verificador de Idade! Este é um projeto simples que desenvolvi para aprimorar minhas habilidades em programação JavaScript. A aplicação permite que os usuários insiram sua data de nascimento e sexo, e com base nesses dados, ela determina a faixa etária do usuário e exibe uma imagem de referência correspondente.
 
